@@ -17,9 +17,9 @@ This project is a simple weather application that allows users to check the weat
 
 To optimize performance and maintain clean, organized code, I implemented:
 
-**Zustand** – Used for state management due to its simplicity and minimal boilerplate, ensuring lightweight and fast reactivity when handling weather data.
-**Zod** – Applied for schema validation to ensure that the API responses conform to expected structures, enhancing error handling and data integrity.
-**Custom Hook (useWeather)** – A custom React hook was created to encapsulate the logic for fetching weather data from the API. This makes the component code cleaner and easier to maintain, while also improving reusability across the app.
+- **Zustand** – Used for state management due to its simplicity and minimal boilerplate, ensuring lightweight and fast reactivity when handling weather data.
+- **Zod** – Applied for schema validation to ensure that the API responses conform to expected structures, enhancing error handling and data integrity.
+- **Custom Hook (useWeather)** – A custom React hook was created to encapsulate the logic for fetching weather data from the API. This makes the component code cleaner and easier to maintain, while also improving reusability across the app.
 
 ## :globe_with_meridians: Site
 **Site:** https://weather-api-sac.netlify.app/
