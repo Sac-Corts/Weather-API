@@ -1,5 +1,4 @@
 # 🌦️ Weather API
-
 This project is a simple weather application that allows users to check the weather of any city by entering the city and country. It provides real-time weather updates using the OpenWeatherMap API and is built with modern web technologies to ensure performance and responsiveness.
 
 ## :star2: Features
